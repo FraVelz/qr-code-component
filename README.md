@@ -1,43 +1,53 @@
-# Astro Starter Kit: Minimal
+# Frontend Mentor - QR code component solution
 
-```sh
-pnpm create astro@latest -- --template minimal
-```
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Table of contents
 
-## 🚀 Project Structure
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-Inside of your Astro project, you'll see the following folders and files:
+## Overview
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+### Screenshot
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+![Screenshot](./screenshot.png)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Links
 
-Any static assets, like images, can be placed in the `public/` directory.
+- Solution URL: [GitHub Repository](https://github.com/your-username/qr-code-component)
+- Live Site URL: [GitHub Pages](https://your-username.github.io/qr-code-component/)
 
-## 🧞 Commands
+## My process
 
-All commands are run from the root of the project, from a terminal:
+### Built with
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+- Semantic HTML5 markup
+- [Astro](https://astro.build/) - Static site generator
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- Mobile-first workflow
 
-## 👀 Want to learn more?
+### What I learned
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Building a simple component with Astro and Tailwind CSS, focusing on semantic structure and responsive layout.
+
+### Continued development
+
+Continue practicing with Astro and Tailwind CSS on more complex Frontend Mentor challenges.
+
+### Useful resources
+
+- [Astro Documentation](https://docs.astro.build/)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Outfit Font - Google Fonts](https://fonts.google.com/specimen/Outfit)
+
+## Author
+
+- Frontend Mentor - [@FraVelz](https://www.frontendmentor.io/profile/FraVelz)
